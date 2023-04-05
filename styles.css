@@ -342,10 +342,6 @@ section {
   justify-content: space-around;
 }
 
-.project-img {
-  border: 1px solid black; /* Add a 1px black solid border */
-}
-
 
 article {
   display: flex;
@@ -373,6 +369,7 @@ article .icon {
   border-radius: 2rem;
   width: 90%;
   height: 90%;
+  border: 1px solid black; /* Add a 1px black solid border */
 }
 
 .project-title {
